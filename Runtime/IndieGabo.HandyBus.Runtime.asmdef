@@ -1,6 +1,6 @@
 {
     "name": "IndieGabo.HandyBus.Runtime",
-    "rootNamespace": "",
+    "rootNamespace": "IndieGabo.HandyBus",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
