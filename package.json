@@ -1,6 +1,6 @@
 {
   "name": "com.indiegabo.handy-bus",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "displayName": "Handy Bus",
   "description": "A solution that creates an Event Bus to be used in any project.",
   "unity": "2022.3",
