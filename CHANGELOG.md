@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/indiegabo/handy-tools/compare/v1.0.0...v1.1.0) (2024-08-07)
+
+
+### Bug Fixes
+
+* .releaserc.json rightfully configured ([e5fa352](https://github.com/indiegabo/handy-tools/commit/e5fa352cc551e97b1493a9f3adebff4e96f3ae57))
+
+
+### Features
+
+* Reorganized to turn the repo into a collection of tools. ([6c4a067](https://github.com/indiegabo/handy-tools/commit/6c4a0675b980dfbf4265cb34a407228bd01f3a3c))
+
 # 1.0.0 (2024-08-05)
 
 
